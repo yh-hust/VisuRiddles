@@ -5,13 +5,17 @@ VisuRiddles: Fine-grained Perception is a important thing for Multimodal Large M
 
 **A Robust and Automated Data Synthesis Engine for Generating Realistic Riddles Data with Fine-grained Perception Information !**
 
-# Description
-
-On process.
-
 # Resouces
 
 [**🚀 Homepage**]() | [**🤗 Benchmark**]()
 
 ## News
+On process.
+
+# Description
+
+## Introduction
+On process.
+
+## Examples of VisuRiddles
 On process.
