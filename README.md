@@ -1,5 +1,5 @@
 # VisuRiddles
-VisuRiddles: Fine-grained Perception is an important thing for Multimodal Large Models in Riddles Solving
+VisuRiddles: Fine-grained Perception is an important thing for Multimodal Large Models in Complex Reasoning
 
 **A Challenging Visual Benchmark for Evaluating Puzzle Reasoning Capabilities in Multimodal Large Models!**
 
