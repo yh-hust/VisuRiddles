@@ -11,13 +11,8 @@ def run_script(script_path):
 
 # scripts to be exectuted: add the scripts here
 scripts = [
-    './scripts/online/inference_gpt4o.sh',
-    './scripts/online/inference_gpt4o_cot.sh',
-    './scripts/online/inference_o1.sh',
-    './scripts/online/inference_claude.sh',
-    './scripts/online/inference_claude_thinking.sh',
-    './scripts/online/inference_gemini_flash.sh',
-    './scripts/online/inference_gemini_pro.sh'
+    './scripts/offline/inference_internvl72b-MPO-cot.sh',
+    './scripts/offline/inference_qwen72b-cot.sh'
 ]
 
 # create and launch threads
