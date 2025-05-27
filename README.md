@@ -1,3 +1,7 @@
+<h2 align="center">
+  VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning
+</h2>
+
 # VisuRiddles
 VisuRiddles: Fine-grained Perception as a Primary Bottleneck for Multimodal Large Models in Complex Reasoning
 
