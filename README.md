@@ -42,7 +42,7 @@ python
 
 
 # 🐳 Examples of VisuRiddles
-![examples](assets/examples.jpg)
+![examples](assets/examples.png)
 
 
 # VisuRiddles
