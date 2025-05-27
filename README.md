@@ -2,11 +2,14 @@
 
   <h2 align="center"><strong>VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning</strong></h2>
 
+<p align="center">
+        🌐 <a href=""><b>Homepage</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href=""><b>Hugging Face</b></a>&nbsp&nbsp | &nbsp&nbsp📑 <a href=""><b>Paper</b></a>&nbsp&nbsp
+</p>
 
 
 # 👋 Introduction
 Recent strides in multimodal large language models (MLLMs) have significantly advanced their performance in many reasoning tasks. However, Abstract Visual Reasoning (AVR) remains a critical challenge, primarily due to limitations in perceiving abstract graphics. To tackle this issue, we investigate the bottlenecks in current MLLMs and synthesize training data to improve their abstract visual perception. First, we propose VisuRiddles, a benchmark for AVR, featuring tasks meticulously constructed to assess models' reasoning capacities across five core dimensions and two high-level reasoning categories. Second, we introduce the Perceptual Riddle Synthesizer (PRS),  an automated framework for generating riddles with fine-grained perceptual descriptions. PRS not only generates valuable training data for abstract graphics but also provides fine-grained perceptual description, crucially allowing for supervision over intermediate reasoning stages and thereby improving both training efficacy and model interpretability. Our extensive experimental results on VisuRiddles empirically validate that fine-grained visual perception is the principal bottleneck and our synthesis framework markedly enhances the performance of contemporary MLLMs on these challenging tasks.
-![OCRRreasoning](assets/ocr_reasoning.png)
+
 
 # 🔥 News
 
