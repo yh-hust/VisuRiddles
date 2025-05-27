@@ -33,9 +33,9 @@ Recent strides in multimodal large language models (MLLMs) have significantly ad
 We have integrated OCR-Reasoning into the VLMEvalKit framework. For the environment configuration and the use of API, please refer to [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). Clone this repo and run the evaluate script. The code will automatically download images and annotations from HuggingFace.
 
 ```bash
-git clone https://github.com/SCUT-DLVCLab/OCR-Reasoning
-cd OCR_Reasoning
-python run.py --data OCR_Reasoning --model Qwen2.5-VL-7B-Instruct --verbose
+git clone https://github.com/yh-hust/VisuRiddles
+cd VisuRiddles
+python 
 ```
 
 
