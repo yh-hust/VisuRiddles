@@ -45,20 +45,19 @@ python
 ![examples](assets/examples.png)
 
 
-# VisuRiddles
-VisuRiddles: Fine-grained Perception as a Primary Bottleneck for Multimodal Large Models in Complex Reasoning
+# 📜 License
+VisuRiddles is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-**A Challenging Visual Benchmark for Evaluating Puzzle Reasoning Capabilities in Multimodal Large Models!**
+# ✒️Citation
 
-**A Robust and Automated Data Synthesis Engine for Generating Realistic Riddles Data with Fine-grained Perception Information !**
+If you find VisuRiddles helpful, please consider giving this repo a :star: and citing:
 
-# Resouces
+```latex
+@article{
+}
+```
 
-[**🚀 Homepage**]() | [**🤗 Benchmark**]()
+Thanks for your support!
 
-## News
-On process.
-
-# Description
 
 
