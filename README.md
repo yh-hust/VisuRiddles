@@ -41,7 +41,7 @@ python
 ![main_results](assets/main_results.png)
 
 
-# 🐳 Examples of VisuRiddles
+# 🧩 Examples of VisuRiddles
 ![examples](assets/examples.png)
 
 
