@@ -56,16 +56,6 @@ The structure of this VisuRiddles is shown as follows.
 VisuRiddles
 │
 ├── images                          # Main folder for all visual riddle images
-│   ├── anhui                       # Subfolder for Anhui province
-│   │   ├── 2014_66.png             # Image from 2014, index 66
-│   │   ├── ...
-│   ├── beijing                     # Subfolder for Beijing municipality
-│   │   ├── 2019_70.png             # Image from 2019, index 70
-│   │   ├── ...
-│   ├── ...                         # Other provinces or municipalities
-│   └── zhejiang                    # Subfolder for Zhejiang province
-│       ├── 2011_101.png            # Image from 2011, index 101
-│       ├── ...
 │
 └── VisuRiddles.json                # Annotation file for the entire dataset
 
