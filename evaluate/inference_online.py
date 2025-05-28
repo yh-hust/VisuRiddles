@@ -50,13 +50,7 @@ def parse_gemini(response):
 
 def model_call(model_name, text_input, icon_path=None):
     URL = "https://yunwu.ai/v1/chat/completions
-    if model_name in ['gemini-2.0-flash-thinking-exp-01-21','gemini-2.5-pro-exp-03-25']#['gpt-4o-2024-08-06','gpt-4o-2024-11-20','o1-2024-12-17','claude-3-7-sonnet-20250219','claude-3-7-sonnet-20250219-thinking','qvq-72b-preview']:
-        HEADERS = {
-            "Content-Type": "application/json",
-            "Authorization": "your token",
-        }
-    else:
-        HEADERS = {
+    HEADERS = {
             "Content-Type": "application/json",
             "Authorization": "your token",
         }
