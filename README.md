@@ -3,7 +3,7 @@
   <h2 align="center"><strong>VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning</strong></h2>
 
 <p align="center">
-        🌐 <a href=""><b>Homepage</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/yh0075/VisuRiddles"><b>Hugging Face</b></a>&nbsp&nbsp | &nbsp&nbsp📑 <a href=""><b>Paper</b></a>&nbsp&nbsp
+        🌐 <a href="https://zhd36.github.io/VisuRiddles/"><b>Homepage</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/yh0075/VisuRiddles"><b>Hugging Face</b></a>&nbsp&nbsp | &nbsp&nbsp📑 <a href=""><b>Paper</b></a>&nbsp&nbsp
 </p>
 
 
