@@ -50,6 +50,57 @@ python
 # 🧩 Examples of VisuRiddles
 ![examples](assets/examples.png)
 
+### Dataset Structure
+The structure of this VisuRiddles is shown as follows.
+```
+VisuRiddles
+│
+├── images                          # Main folder for all visual riddle images
+│   ├── anhui                       # Subfolder for Anhui province
+│   │   ├── 2014_66.png             # Image from 2014, index 66
+│   │   ├── ...
+│   ├── beijing                     # Subfolder for Beijing municipality
+│   │   ├── 2019_70.png             # Image from 2019, index 70
+│   │   ├── ...
+│   ├── ...                         # Other provinces or municipalities
+│   └── zhejiang                    # Subfolder for Zhejiang province
+│       ├── 2011_101.png            # Image from 2011, index 101
+│       ├── ...
+│
+└── VisuRiddles.json                # Annotation file for the entire dataset
+
+```
+
+### Data Instances
+For each instance in the dataset, the following fields are provided:
+```
+json
+{
+    {
+        "id": "0000",
+        "question": "[Logical Reasoning]  \nFrom the four given options, choose the most suitable one to fill in the question mark so that it demonstrates a certain pattern or regularity:",
+        "imgs": [
+            "images/ningxia/2013_92.png"
+        ],
+        "option": "A、A\nB、B\nC、C\nD、D",
+        "gold_answer": "A",
+        "gold_analysis": "Element set form, examining the number of types of elements. It is known that each figure contains four different types of elements, and each figure includes the same element: a five-pointed star. Option A contains four different types of elements and includes one five-pointed star; options B and C do not have a five-pointed star; option D has only three different types of elements.  \nTherefore, the correct answer is A.",
+        "class": "Numerical"
+    },
+  ...
+}
+
+```
+### Data Fields
+- `id`: a string containing the unique identifier for the question sample.
+- `question`: a string containing the main question or instruction for the logical reasoning task.
+- `imgs`: a list of strings, where each string is the relative path to an image file associated with the question (e.g., `images/ningxia/2013_92.png`).
+- `option`: a string listing all answer options, typically formatted with option labels (e.g., "A、A\nB、B\nC、C\nD、D").
+- `gold_answer`: a string indicating the correct answer option (e.g., "A").
+- `gold_analysis`: a string providing the detailed explanation or reasoning for the correct answer.
+- `class`: a string representing the type or category of the question (e.g., "Numerical", "Attribute", etc.).
+
+
 
 # 📜 License
 VisuRiddles is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
