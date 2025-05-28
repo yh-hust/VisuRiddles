@@ -15,7 +15,7 @@ Recent strides in multimodal large language models (MLLMs) have significantly ad
 
 - **[`0x/xx/2025`]**: Our paper is now accessible at [arXiv]().
 
-- **[`0x/xx/2025`]**: Release the [dataset]() and evaluation script.
+- **[`0x/xx/2025`]**: Release the [dataset](https://huggingface.co/datasets/yh0075/VisuRiddles) and evaluation script.
 
 
 # 📌 Highlights
