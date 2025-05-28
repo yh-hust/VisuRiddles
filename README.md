@@ -92,9 +92,6 @@ json
 
 
 
-# 📜 License
-VisuRiddles is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 # ✒️Citation
 
 If you find VisuRiddles helpful, please consider giving this repo a :star: and citing:
