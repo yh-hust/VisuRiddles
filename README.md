@@ -53,10 +53,11 @@ Replace /path/to/your/result.json with the path to your actual result file.The s
 ![main_results](assets/main_results.png)
 
 
-# 🧩 Examples of VisuRiddles
+# 🧩Dataset Overview
+## Examples 
 ![examples](assets/examples.png)
 
-### Dataset Structure
+## Dataset Structure
 The structure of this VisuRiddles is shown as follows.
 ```
 VisuRiddles
@@ -67,7 +68,7 @@ VisuRiddles
 
 ```
 
-### Data Instances
+## Data Instances
 For each instance in the dataset, the following fields are provided:
 ```
 json
@@ -87,7 +88,7 @@ json
 }
 
 ```
-### Data Fields
+## Data Fields
 - `id`: a string containing the unique identifier for the question sample.
 - `question`: a string containing the main question or instruction for the logical reasoning task.
 - `imgs`: a list of strings, where each string is the relative path to an image file associated with the question (e.g., `images/ningxia/2013_92.png`).
