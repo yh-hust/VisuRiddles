@@ -41,16 +41,12 @@ You can use either of the following files for inference, depending on your needs
 - **run_online.py**: For closed-source model inference using the Yunwu API (online/cloud).  
   > Yunwu API: [https://yunwu.ai.com/](https://yunwu.ai.com/)
 
-Both scripts will generate a result file containing model predictions.
-
-After inference, use the evaluation script to calculate metrics:
+Both scripts will generate a result file containing model predictions.After inference, use the evaluation script to calculate metrics:
 
 ```bash
 python evaluate/metric_cal.py --result_file /path/to/your/result.json
 ```
-Replace /path/to/your/result.json with the path to your actual result file.
-
-The script outputs accuracy for each task category and overall performance.
+Replace /path/to/your/result.json with the path to your actual result file.The script outputs accuracy for each task category and overall performance.
 
 
 # 📖 Main Results
