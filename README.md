@@ -43,8 +43,6 @@ You can use either of the following files for inference, depending on your needs
 
 Both scripts will generate a result file containing model predictions.
 
-### Evaluation of Results
-
 After inference, use the evaluation script to calculate metrics:
 
 ```bash
