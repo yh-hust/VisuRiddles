@@ -40,11 +40,34 @@ You can use either of the following files for inference, depending on your needs
 - **run_online.py**: For closed-source model inference using the Yunwu API (online/cloud).  
   > Yunwu API: [https://yunwu.ai.com/](https://yunwu.ai.com/)
 
-Both scripts will generate a result file containing model predictions.After inference, use the evaluation script to calculate metrics:
+You can choose one of the following ways to run the inference:
 
+## Option 1: Run a Single Model via Bash Script
+You can directly run a single model inference using a bash script. For example, to run inference with GPT-4o:
 ```bash
 python evaluate/metric_cal.py --result_file /path/to/your/result.json
 ```
+
+Both scripts will generate a result file containing model predictions.After inference, use the evaluation script to calculate metrics:
+
+```bash
+bash scripts/online/inference_gpt4o.sh
+```
+Feel free to modify the script or create new ones for different models as needed.
+
+## Option 2: Run Multiple Models in Parallel via Python
+You can also run multiple model inference scripts in parallel using `run_online.py`. To do this, modify the `scripts`parameter in the Python script. For example:
+```bash
+scripts = [
+    './scripts/online/inference_gpt4o.sh',
+    './scripts/online/inference_claude.sh'
+]
+```
+Then, run the script with:
+```bash
+python run_online.py
+```
+
 Replace /path/to/your/result.json with the path to your actual result file.The script outputs accuracy for each task category and overall performance.
 
 
