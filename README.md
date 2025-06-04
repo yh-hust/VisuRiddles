@@ -29,8 +29,8 @@ Recent strides in multimodal large language models (MLLMs) have significantly ad
 - **We develop an automated synthesis framework for fully-annotated AVR samples.** This enables end-to-end supervision from perception to reasoning, facilitating more systematic model learning and generalization.
 
 # ✅ To-do
-- [] Release synthesis code (e.g., positiona and stylistic rule)
-- [] Release the validation dataset with perceptual description
+- [ ] Release synthesis code (e.g., positiona and stylistic rule)
+- [ ] Release the validation dataset with perceptual description
 
 # 🔨 Evaluation
 You can use either of the following files for inference, depending on your needs:
