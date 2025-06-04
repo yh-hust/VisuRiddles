@@ -125,7 +125,14 @@ json
 If you find VisuRiddles helpful, please consider giving this repo a :star: and citing:
 
 ```latex
-@article{
+@misc{yan2025visuriddlesfinegrainedperceptionprimary,
+      title={VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning}, 
+      author={Hao Yan and Handong Zheng and Hao Wang and Liang Yin and Xingchen Liu and Zhenbiao Cao and Xinxing Su and Zihao Chen and Jihao Wu and Minghui Liao and Chao Weng and Wei Chen and Yuliang Liu and Xiang Bai},
+      year={2025},
+      eprint={2506.02537},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.02537}, 
 }
 ```
 
