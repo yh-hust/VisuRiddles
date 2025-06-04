@@ -3,7 +3,7 @@
   <h2 align="center"><strong>VisuRiddles: Fine-grained Perception is a Primary Bottleneck for Multimodal Large Language Models in Abstract Visual Reasoning</strong></h2>
 
 <p align="center">
-        🌐 <a href="https://zhd36.github.io/VisuRiddles/"><b>Homepage</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/yh0075/VisuRiddles"><b>Hugging Face</b></a>&nbsp&nbsp | &nbsp&nbsp📑 <a href=""><b>Paper</b></a>&nbsp&nbsp
+        🌐 <a href="https://zhd36.github.io/VisuRiddles/"><b>Homepage</b></a>&nbsp&nbsp | &nbsp&nbsp🤗 <a href="https://huggingface.co/datasets/yh0075/VisuRiddles"><b>Hugging Face</b></a>&nbsp&nbsp | &nbsp&nbsp📑 <a href="https://arxiv.org/abs/2506.02537"><b>Paper</b></a>&nbsp&nbsp
 </p>
 
 
@@ -13,10 +13,10 @@ Recent strides in multimodal large language models (MLLMs) have significantly ad
 
 # 🔥 News
 
-- **[`0x/xx/2025`]**: Our paper is now accessible at [arXiv]().
 
 - **[`0x/xx/2025`]**: Release the [dataset](https://huggingface.co/datasets/yh0075/VisuRiddles) and evaluation script.
-
+- 
+- **[`04/06/2025`]**: Our paper is now accessible at [arXiv]().
 
 # 📌 Highlights
 
@@ -30,8 +30,8 @@ Recent strides in multimodal large language models (MLLMs) have significantly ad
 - **We develop an automated synthesis framework for fully-annotated AVR samples.** This enables end-to-end supervision from perception to reasoning, facilitating more systematic model learning and generalization.
 
 # ✅ To-do
-- [x] Release synthesis code (e.g., positiona and stylistic rule)
-- [x] Release the validation dataset with perceptual description
+- [] Release synthesis code (e.g., positiona and stylistic rule)
+- [] Release the validation dataset with perceptual description
 
 # 🔨 Evaluation
 You can use either of the following files for inference, depending on your needs:
