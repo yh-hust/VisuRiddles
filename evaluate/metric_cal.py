@@ -51,7 +51,7 @@ def Sudoku_evalution(item):
 def Raven_evalution(item):
     if not isinstance(item['pred'],str):
         return 0
-    matches = re.findall(r"<answer>(\d+)</answer>", item.get('pred', ''), re.IGNORECASE)
+    matches = re.findall(r"<answer>(.+?)</answer>", item.get('pred', ''), re.IGNORECASE)
     if not matches:
         return 0
     pred_answer = matches[-1].strip()
