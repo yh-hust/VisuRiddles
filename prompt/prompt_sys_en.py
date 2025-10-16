@@ -1,88 +1,75 @@
 prompt_choice_direct = """
-Please select the correct answer based on the question and the provided image, and output the answer in the format <answer>X</answer> (X should be A, B, C, or D). No need to provide any explanations, just output the answer directly:
-1. `<answer>X</answer>`: The final answer, where X should be A, B, C, or D.
-Output format:  
-<answer>X</answer> The final answer, where X should be A, B, C, or D.
+Please select the correct answer based on the question and the provided image, and output the answer.
+The final answer should be provided as follows:
+<answer>X</answer>: The final answer, where X should be one of the answer choices A, B, C, or D.
 
 Note:
-1. No explanation is needed.
-
-Example:
-<answer>A</answer>
-"""
-
-prompt_choice_cot = """
-Please select the correct answer based on the question and the provided image, and reason step by step to output the thought process that leads to the correct answer. The output format should include two parts:
-1. `<cot>reasoning process</cot>`: The step-by-step reasoning process, which may include analysis, logical reasoning, application of relevant knowledge, etc.
+1. The final answer must be in <answer> </answer>.
 2. `<answer>X</answer>`: The final answer, where X should be A, B, C, or D.
-
-Note:
-Please reason step by step, output the intermediate reasoning process, and finally provide the answer.  
-
-Example: 
-<cot>The question stem graphics are divided into two groups, top and bottom. It is observed that the first group of graphics are all letters, and the rightmost letter in the previous graphic along the arrow direction is on the leftmost side of the adjacent next graphic. The second set of figures are all numbers, and the rightmost number in the previous figure in the direction of the arrow is on the leftmost side of the adjacent figure. According to this rule,? The leftmost digit should be 2 and the rightmost digit should be 4, only option A matches.</cot>  
-<answer>A</answer>
 """
 
-prompt_sudoku_direct='''
-Please solve the following Sudoku puzzle. The basic requirement of Sudoku is to fill each empty space with any Arabic numeral from 1 to 9  such that in each row, each column, and each adjacent 3×3 small square of the same color, the numbers filled in must be from 1 to 9 without any repetition.
+prompt_choice_cot = '''
+Please select the correct answer based on the question and the provided image, and output the answer.
 
-Output format:  
-<answer>X</answer>The final answer, where X should be the answer of Sudoku. No explanation is needed.
+<answer>X</answer>: The final answer, where X should be A, B, C, or D.
+
+Follow these steps to solve the problem:
+
+1. **Analyze the Image**: Look at the image and identify key details.
+2. **Summarize the Pattern**: Find any patterns or relationships in the image.
+3. **Evaluate the Options**: Review the answer choices and see which one matches the pattern.
+4. **Choose the Best Answer**: Select the answer that best fits the pattern.
 
 Note:
-1. `<answer>X</answer>`: The final answer, where X should be the answer of Sudoku.
-2. the final answer must be in <answer> </answer>
-3. No explanation is needed.
-
-Example:
-<answer>576891432\n243567198\n819234765\n354678219\n687912543\n921345876\n798123654\n465789321\n132456987</answer>
+1. The final answer must be in <answer> </answer>.
+2. `<answer>X</answer>`: The final answer, where X should be A, B, C, or D.
 '''
 
-prompt_sudoku_cot='''
-Please solve the following Sudoku puzzle. The basic requirement of Sudoku is to fill each empty space with any Arabic numeral from 1 to 9  such that in each row, each column, and each adjacent 3×3 small square of the same color, the numbers filled in must be from 1 to 9 without any repetition.
-
-Output format:  
-Step-by-step thinking process
-
-<answer>X</answer>The final answer, where X should be the answer of Sudoku.
+prompt_sudoku_direct='''
+Please solve the following Sudoku puzzle. The basic requirement of Sudoku is to fill each empty space with any Arabic numeral from 1 to 9 such that in each row, each column, and each adjacent 3×3 small square of the same color, the numbers filled in must be from 1 to 9 without any repetition.
 
 Note:
-1. `<answer>X</answer>`: The final answer, where X should be the answer of Sudoku.
-2. the final answer must be in <answer> </answer>
+1. The final answer must be provided in the format `<answer>X</answer>`, where X is the solved Sudoku grid.
+2. The solution should be in the form of a 9x9 grid, where each row contains exactly 9 digits (from 1 to 9) with no spaces between them, and rows are separated by a newline character (`\n`).
+3. The final answer must be enclosed within `<answer> </answer>`.
+'''
+#<answer>576891432\n243567198\n819234765\n354678219\n687912543\n921345876\n798123654\n465789321\n132456987</answer>
+prompt_sudoku_cot='''
+Please solve the following Sudoku puzzle. The basic requirement of Sudoku is to fill each empty space with any Arabic numeral from 1 to 9 such that in each row, each column, and each adjacent 3×3 small square of the same color, the numbers filled in must be from 1 to 9 without any repetition.
 
-Example:
-<cot>Given the input [1, 0, 3, 0, 0, 0, 2, 0, 0], the first row is missing 2, so it becomes [1, 2, 3]. Column 1 has 1 and 2, so the next value is 3; column 2 has 2, so the next is 1; and the remaining number in row 2 is 2. In row 3, column 2 needs 3 and column 3 needs 1. The completed grid is [1, 2, 3, 3, 1, 2, 2, 3, 1].</cot>
-<answer>123312231</answer>
+Follow these steps:
+
+1. **Analyze the Initial Grid**: Look at the given Sudoku puzzle. Identify which cells are already filled with numbers, and which ones are empty. Also, notice the numbers in each row, column, and 3x3 subgrid.
+
+2. **Identify the Constraints**: Each row, each column, and each 3x3 subgrid must contain the numbers 1 through 9 without repetition. Based on this rule, identify which numbers are missing from the rows, columns, or subgrids.
+
+3. **Start with Obvious Placements**: Look for rows, columns, or subgrids where there is only one possible place for a missing number. Fill these cells in first.
+
+4. **Use Logical Deduction**: If you cannot immediately fill in a number, use logical reasoning to eliminate possibilities. For each empty cell, consider the numbers already present in the same row, column, and 3x3 subgrid, and narrow down the potential candidates for that cell.
+
+5. **Iterate and Fill in More Numbers**: As you fill in more numbers, you will uncover more obvious placements. Continue using logical deduction to fill in the grid.
+
+6. **Complete the Puzzle**: Continue applying these steps until the Sudoku grid is fully solved.
+
+Note:
+1. The final answer must be provided in the format `<answer>X</answer>`, where X is the solved Sudoku grid.
+2. The solution should be in the form of a 9x9 grid, where each row contains exactly 9 digits (from 1 to 9) with no spaces between them, and rows are separated by a newline character (`\n`).
+3. The final answer must be enclosed within `<answer> </answer>`.
 '''
 
 prompt_raven_direct='''Please solve the following raven puzzle. 
-Output format:  
-<answer>X</answer>The final answer, where X should be the position of the subgraph in the option graph, calculated as the number of subgraphs from left to right, top to bottom, and is an Arabic numeral.
-
-Note:
-1. `<answer>X</answer>`: The final answer, where X should be the position of the subgraph in the option graph, calculated as the number of subgraphs from left to right, top to bottom, and is an Arabic numeral.
-2. the final answer must be in <answer> </answer>
-3. No explanation is needed.
-
-Example:
-<answer>3</answer>
-
+Note: 
+1. The final answer must be in <answer> </answer>.  
+2. <answer>X</answer>: The final answer, where X should be exactly one of the option labels A–H.  
 '''
 
-prompt_raven_cot='''Please solve the following raven puzzle. 
-Output format:  
-Describe the fine-grained description model and option diagram. Analyze the patterns in the diagram to answer the question.
-
-<answer>X</answer>The final answer, where X should be the position of the subgraph in the option graph, calculated as the number of subgraphs from left to right, top to bottom, and is an Arabic numeral.
-
-Note:
-1. `<answer>X</answer>`: The final answer, where X should be the position of the subgraph in the option graph, calculated as the number of subgraphs from left to right, top to bottom, and is an Arabic numeral.
+prompt_raven_cot='''Please solve the following raven puzzle. Follow these steps:
+1. Analyze Elements: Look at all the shapes and their characteristics (e.g., size, color, position, quantity).
+2. Identify Patterns: Find any relationships or patterns between the shapes (e.g., changes in size, position, or color).
+3. Form a Hypothesis: Based on the pattern, guess what the next shape should be.
+4. Derive the Answer: Use your hypothesis to find the correct answer, making sure it matches the pattern.
+Note: 
+1. <answer>X</answer>: The final answer, where X should be exactly one of the option labels A–H.  
 2. the final answer must be in <answer> </answer>
-
-Example:
-<cot>### The model diagram and option diagram include the following basic graphics:... \n### Description of the model diagram:\nContent of the 1st:...\nContent of the n-th:...\n### Description of the option diagram:\nContent of the 1st:... \nContent of the n-th....\n\n### Answer:3\n</cot>
-<answer>3</answer>
-
 '''
 
