@@ -98,12 +98,13 @@ json
         "id": "0000",
         "question": "[Logical Reasoning]  \nFrom the four given options, choose the most suitable one to fill in the question mark so that it demonstrates a certain pattern or regularity:",
         "imgs": [
-            "images/ningxia/2013_92.png"
+            "images/ningxia/2013_92.jpg"
         ],
         "option": "A、A\nB、B\nC、C\nD、D",
         "gold_answer": "A",
+        "gold_analysis": "Element set form, examining the number of types of elements. It is known that each figure contains four different types of elements, and each figure includes the same element: a five-pointed star. Option A contains four different types of elements and includes one five-pointed star; options B and C do not have a five-pointed star; option D has only three different types of elements.  \nTherefore, the correct answer is A.",
         "class": "Numerical"
-    },
+    }
   ...
 }
 
@@ -114,6 +115,7 @@ json
 - `imgs`: a list of strings, where each string is the relative path to an image file associated with the question (e.g., `images/ningxia/2013_92.png`).
 - `option`: a string listing all answer options, typically formatted with option labels (e.g., "A、A\nB、B\nC、C\nD、D").
 - `gold_answer`: a string indicating the correct answer option (e.g., "A").
+- `gold_analysis`: a string specifying the correct chain of thought.
 - `class`: a string representing the type or category of the question (e.g., "Numerical", "Attribute", etc.).
 
 
