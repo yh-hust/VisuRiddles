@@ -1,0 +1,1202 @@
+[
+    {
+        "image_name": "add.png",
+        "image_path": "NewIcons\\add.png",
+        "line": 6,
+        "angle": 8,
+        "cart": 8,
+        "curve": 0
+    },
+    {
+        "image_name": "app.png",
+        "image_path": "NewIcons\\app.png",
+        "line": -1,
+        "angle": 4,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "attachment.png",
+        "image_path": "NewIcons\\attachment.png",
+        "line": 4,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "back.png",
+        "image_path": "NewIcons\\back.png",
+        "line": 4,
+        "angle": 3,
+        "cart": 1,
+        "curve": 2
+    },
+    {
+        "image_name": "binoculars.png",
+        "image_path": "NewIcons\\binoculars.png",
+        "line": 6,
+        "angle": 4,
+        "cart": 4,
+        "curve": 4
+    },
+    {
+        "image_name": "checked.png",
+        "image_path": "NewIcons\\checked.png",
+        "line": 7,
+        "angle": 5,
+        "cart": 4,
+        "curve": 0
+    },
+    {
+        "image_name": "clock.png",
+        "image_path": "NewIcons\\clock.png",
+        "line": 2,
+        "angle": 1,
+        "cart": 1,
+        "curve": 1
+    },
+    {
+        "image_name": "cloud.png",
+        "image_path": "NewIcons\\cloud.png",
+        "line": 1,
+        "angle": 0,
+        "cart": 0,
+        "curve": 4
+    },
+    {
+        "image_name": "cloud_computing.png",
+        "image_path": "NewIcons\\cloud_computing.png",
+        "line": 5,
+        "angle": 4,
+        "cart": 0,
+        "curve": 4
+    },
+    {
+        "image_name": "compact-disc.png",
+        "image_path": "NewIcons\\compact-disc.png",
+        "line": -1,
+        "angle": 0,
+        "cart": -1,
+        "curve": 8
+    },
+    {
+        "image_name": "compass.png",
+        "image_path": "NewIcons\\compass.png",
+        "line": 5,
+        "angle": 6,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "controls.png",
+        "image_path": "NewIcons\\controls.png",
+        "line": 8,
+        "angle": 4,
+        "cart": 4,
+        "curve": 3
+    },
+    {
+        "image_name": "cycle.png",
+        "image_path": "NewIcons\\cycle.png",
+        "line": 4,
+        "angle": 2,
+        "cart": 2,
+        "curve": 3
+    },
+    {
+        "image_name": "dislike.png",
+        "image_path": "NewIcons\\dislike.png",
+        "line": 5,
+        "angle": 4,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "download.png",
+        "image_path": "NewIcons\\download.png",
+        "line": 2,
+        "angle": 1,
+        "cart": 1,
+        "curve": 1
+    },
+    {
+        "image_name": "drag (1).png",
+        "image_path": "NewIcons\\drag (1).png",
+        "line": 7,
+        "angle": 8,
+        "cart": 6,
+        "curve": 0
+    },
+    {
+        "image_name": "drag (2).png",
+        "image_path": "NewIcons\\drag (2).png",
+        "line": 7,
+        "angle": -1,
+        "cart": 4,
+        "curve": 0
+    },
+    {
+        "image_name": "drag.png",
+        "image_path": "NewIcons\\drag.png",
+        "line": 7,
+        "angle": -1,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "expand (1).png",
+        "image_path": "NewIcons\\expand (1).png",
+        "line": 6,
+        "angle": 4,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "expand.png",
+        "image_path": "NewIcons\\expand.png",
+        "line": 12,
+        "angle": 8,
+        "cart": 0,
+        "curve": 0
+    },
+    {
+        "image_name": "eyeglasses.png",
+        "image_path": "NewIcons\\eyeglasses.png",
+        "line": 2,
+        "angle": 0,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "file.png",
+        "image_path": "NewIcons\\file.png",
+        "line": -1,
+        "angle": 8,
+        "cart": 6,
+        "curve": -1
+    },
+    {
+        "image_name": "flag (2).png",
+        "image_path": "NewIcons\\flag (2).png",
+        "line": 3,
+        "angle": -1,
+        "cart": -1,
+        "curve": -1
+    },
+    {
+        "image_name": "flag.png",
+        "image_path": "NewIcons\\flag.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "focus.png",
+        "image_path": "NewIcons\\focus.png",
+        "line": 6,
+        "angle": 4,
+        "cart": 0,
+        "curve": 3
+    },
+    {
+        "image_name": "forbidden.png",
+        "image_path": "NewIcons\\forbidden.png",
+        "line": 1,
+        "angle": 0,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "funnel.png",
+        "image_path": "NewIcons\\funnel.png",
+        "line": 6,
+        "angle": 6,
+        "cart": 2,
+        "curve": 1
+    },
+    {
+        "image_name": "hide.png",
+        "image_path": "NewIcons\\hide.png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 6
+    },
+    {
+        "image_name": "home.png",
+        "image_path": "NewIcons\\home.png",
+        "line": -1,
+        "angle": -1,
+        "cart": 19,
+        "curve": -1
+    },
+    {
+        "image_name": "horizontal-arrows.png",
+        "image_path": "NewIcons\\horizontal-arrows.png",
+        "line": 6,
+        "angle": 4,
+        "cart": -1,
+        "curve": -1
+    },
+    {
+        "image_name": "import.png",
+        "image_path": "NewIcons\\import.png",
+        "line": 6,
+        "angle": 4,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "key.png",
+        "image_path": "NewIcons\\key.png",
+        "line": 4,
+        "angle": 6,
+        "cart": 6,
+        "curve": 1
+    },
+    {
+        "image_name": "left-arrow.png",
+        "image_path": "NewIcons\\left-arrow.png",
+        "line": 3,
+        "angle": 2,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "like.png",
+        "image_path": "NewIcons\\like.png",
+        "line": 0,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "lock.png",
+        "image_path": "NewIcons\\lock.png",
+        "line": 8,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "locked (2).png",
+        "image_path": "NewIcons\\locked (2).png",
+        "line": 9,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "locked.png",
+        "image_path": "NewIcons\\locked.png",
+        "line": 4,
+        "angle": -1,
+        "cart": -1,
+        "curve": 4
+    },
+    {
+        "image_name": "locked_1.png",
+        "image_path": "NewIcons\\locked_1.png",
+        "line": 9,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "login.png",
+        "image_path": "NewIcons\\login.png",
+        "line": 8,
+        "angle": 6,
+        "cart": 4,
+        "curve": 0
+    },
+    {
+        "image_name": "magnet.png",
+        "image_path": "NewIcons\\magnet.png",
+        "line": 10,
+        "angle": 20,
+        "cart": 20,
+        "curve": 2
+    },
+    {
+        "image_name": "magnet_1.png",
+        "image_path": "NewIcons\\magnet_1.png",
+        "line": 11,
+        "angle": 12,
+        "cart": 12,
+        "curve": 2
+    },
+    {
+        "image_name": "map.png",
+        "image_path": "NewIcons\\map.png",
+        "line": 10,
+        "angle": 12,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "map_1.png",
+        "image_path": "NewIcons\\map_1.png",
+        "line": 13,
+        "angle": 12,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "menu (2).png",
+        "image_path": "NewIcons\\menu (2).png",
+        "line": 7,
+        "angle": 4,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "menu.png",
+        "image_path": "NewIcons\\menu.png",
+        "line": 3,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "microphone.png",
+        "image_path": "NewIcons\\microphone.png",
+        "line": 2,
+        "angle": 2,
+        "cart": 2,
+        "curve": 3
+    },
+    {
+        "image_name": "minus.png",
+        "image_path": "NewIcons\\minus.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "more.png",
+        "image_path": "NewIcons\\more.png",
+        "line": 4,
+        "angle": 2,
+        "cart": 2,
+        "curve": 3
+    },
+    {
+        "image_name": "multiply.png",
+        "image_path": "NewIcons\\multiply.png",
+        "line": 9,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "music_player.png",
+        "image_path": "NewIcons\\music_player.png",
+        "line": 4,
+        "angle": 6,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "music_player_1.png",
+        "image_path": "NewIcons\\music_player_1.png",
+        "line": 9,
+        "angle": 14,
+        "cart": 8,
+        "curve": 2
+    },
+    {
+        "image_name": "muted.png",
+        "image_path": "NewIcons\\muted.png",
+        "line": 5,
+        "angle": 2,
+        "cart": 2,
+        "curve": 3
+    },
+    {
+        "image_name": "navigation.png",
+        "image_path": "NewIcons\\navigation.png",
+        "line": 4,
+        "angle": 4,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "network.png",
+        "image_path": "NewIcons\\network.png",
+        "line": 5,
+        "angle": -1,
+        "cart": -1,
+        "curve": 6
+    },
+    {
+        "image_name": "paper-plane.png",
+        "image_path": "NewIcons\\paper-plane.png",
+        "line": 5,
+        "angle": 6,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "percent.png",
+        "image_path": "NewIcons\\percent.png",
+        "line": 5,
+        "angle": 4,
+        "cart": 4,
+        "curve": 2
+    },
+    {
+        "image_name": "photo-camera.png",
+        "image_path": "NewIcons\\photo-camera.png",
+        "line": 5,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "picture.png",
+        "image_path": "NewIcons\\picture.png",
+        "line": 8,
+        "angle": 6,
+        "cart": 4,
+        "curve": 1
+    },
+    {
+        "image_name": "picture_1.png",
+        "image_path": "NewIcons\\picture_1.png",
+        "line": 9,
+        "angle": -1,
+        "cart": 10,
+        "curve": 1
+    },
+    {
+        "image_name": "pin.png",
+        "image_path": "NewIcons\\pin.png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "power.png",
+        "image_path": "NewIcons\\power.png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "radar.png",
+        "image_path": "NewIcons\\radar.png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 5
+    },
+    {
+        "image_name": "repeat (1).png",
+        "image_path": "NewIcons\\repeat (1).png",
+        "line": 6,
+        "angle": 4,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "repeat (2).png",
+        "image_path": "NewIcons\\repeat (2).png",
+        "line": 6,
+        "angle": 4,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "repeat.png",
+        "image_path": "NewIcons\\repeat.png",
+        "line": 8,
+        "angle": 10,
+        "cart": 4,
+        "curve": 2
+    },
+    {
+        "image_name": "restart.png",
+        "image_path": "NewIcons\\restart.png",
+        "line": 3,
+        "angle": 3,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "rewind (2).png",
+        "image_path": "NewIcons\\rewind (2).png",
+        "line": 4,
+        "angle": 2,
+        "cart": 2,
+        "curve": 1
+    },
+    {
+        "image_name": "rewind.png",
+        "image_path": "NewIcons\\rewind.png",
+        "line": 6,
+        "angle": 8,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "right-arrow.png",
+        "image_path": "NewIcons\\right-arrow.png",
+        "line": 7,
+        "angle": 6,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "search (2).png",
+        "image_path": "NewIcons\\search (2).png",
+        "line": 3,
+        "angle": 2,
+        "cart": 2,
+        "curve": 1
+    },
+    {
+        "image_name": "search.png",
+        "image_path": "NewIcons\\search.png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "send.png",
+        "image_path": "NewIcons\\send.png",
+        "line": 8,
+        "angle": 7,
+        "cart": 3,
+        "curve": 2
+    },
+    {
+        "image_name": "settings.png",
+        "image_path": "NewIcons\\settings.png",
+        "line": 8,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "share (2).png",
+        "image_path": "NewIcons\\share (2).png",
+        "line": -1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 6
+    },
+    {
+        "image_name": "share.png",
+        "image_path": "NewIcons\\share.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "share_1.png",
+        "image_path": "NewIcons\\share_1.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 4
+    },
+    {
+        "image_name": "shuffle.png",
+        "image_path": "NewIcons\\shuffle.png",
+        "line": 8,
+        "angle": 10,
+        "cart": 4,
+        "curve": 3
+    },
+    {
+        "image_name": "sign.png",
+        "image_path": "NewIcons\\sign.png",
+        "line": 7,
+        "angle": 9,
+        "cart": 6,
+        "curve": -1
+    },
+    {
+        "image_name": "skip.png",
+        "image_path": "NewIcons\\skip.png",
+        "line": 7,
+        "angle": 7,
+        "cart": 4,
+        "curve": 1
+    },
+    {
+        "image_name": "spin.png",
+        "image_path": "NewIcons\\spin.png",
+        "line": 4,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "star.png",
+        "image_path": "NewIcons\\star.png",
+        "line": 10,
+        "angle": 10,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "stop.png",
+        "image_path": "NewIcons\\stop.png",
+        "line": 4,
+        "angle": 4,
+        "cart": 4,
+        "curve": 1
+    },
+    {
+        "image_name": "substract.png",
+        "image_path": "NewIcons\\substract.png",
+        "line": 5,
+        "angle": 4,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "switch.png",
+        "image_path": "NewIcons\\switch.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "switch_1.png",
+        "image_path": "NewIcons\\switch_1.png",
+        "line": 3,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "tabs.png",
+        "image_path": "NewIcons\\tabs.png",
+        "line": 7,
+        "angle": 4,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "television.png",
+        "image_path": "NewIcons\\television.png",
+        "line": 8,
+        "angle": 7,
+        "cart": 4,
+        "curve": -1
+    },
+    {
+        "image_name": "time.png",
+        "image_path": "NewIcons\\time.png",
+        "line": 2,
+        "angle": 1,
+        "cart": 1,
+        "curve": 1
+    },
+    {
+        "image_name": "up-arrow.png",
+        "image_path": "NewIcons\\up-arrow.png",
+        "line": 4,
+        "angle": 2,
+        "cart": 0,
+        "curve": -1
+    },
+    {
+        "image_name": "upload.png",
+        "image_path": "NewIcons\\upload.png",
+        "line": 6,
+        "angle": 4,
+        "cart": 2,
+        "curve": -1
+    },
+    {
+        "image_name": "view.png",
+        "image_path": "NewIcons\\view.png",
+        "line": -1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "volume-control (1).png",
+        "image_path": "NewIcons\\volume-control (1).png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "volume-control.png",
+        "image_path": "NewIcons\\volume-control.png",
+        "line": 8,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "wifi (2).png",
+        "image_path": "NewIcons\\wifi (2).png",
+        "line": 0,
+        "angle": -1,
+        "cart": -1,
+        "curve": 4
+    },
+    {
+        "image_name": "wifi.png",
+        "image_path": "NewIcons\\wifi.png",
+        "line": 1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 7
+    },
+    {
+        "image_name": "zoom-in.png",
+        "image_path": "NewIcons\\zoom-in.png",
+        "line": 3,
+        "angle": 4,
+        "cart": 4,
+        "curve": 1
+    },
+    {
+        "image_name": "zoom-out.png",
+        "image_path": "NewIcons\\zoom-out.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_13.png",
+        "image_path": "OutputIcons\\final_icon_13.png",
+        "line": -1,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_14.png",
+        "image_path": "OutputIcons\\final_icon_14.png",
+        "line": 12,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_15.png",
+        "image_path": "OutputIcons\\final_icon_15.png",
+        "line": 2,
+        "angle": -1,
+        "cart": -1,
+        "curve": 4
+    },
+    {
+        "image_name": "final_icon_16.png",
+        "image_path": "OutputIcons\\final_icon_16.png",
+        "line": 18,
+        "angle": -1,
+        "cart": -1,
+        "curve": -1
+    },
+    {
+        "image_name": "final_icon_21.png",
+        "image_path": "OutputIcons\\final_icon_21.png",
+        "line": 3,
+        "angle": -1,
+        "cart": -1,
+        "curve": 4
+    },
+    {
+        "image_name": "final_icon_22.png",
+        "image_path": "OutputIcons\\final_icon_22.png",
+        "line": 5,
+        "angle": -1,
+        "cart": -1,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_23.png",
+        "image_path": "OutputIcons\\final_icon_23.png",
+        "line": 2,
+        "angle": 1,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_24.png",
+        "image_path": "OutputIcons\\final_icon_24.png",
+        "line": 3,
+        "angle": 0,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_25.png",
+        "image_path": "OutputIcons\\final_icon_25.png",
+        "line": 12,
+        "angle": 12,
+        "cart": 12,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_26.png",
+        "image_path": "OutputIcons\\final_icon_26.png",
+        "line": 6,
+        "angle": -1,
+        "cart": -1,
+        "curve": 4
+    },
+    {
+        "image_name": "final_icon_27.png",
+        "image_path": "OutputIcons\\final_icon_27.png",
+        "line": -1,
+        "angle": -1,
+        "cart": 8,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_28.png",
+        "image_path": "OutputIcons\\final_icon_28.png",
+        "line": 0,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "final_icon_29.png",
+        "image_path": "OutputIcons\\final_icon_29.png",
+        "line": 4,
+        "angle": 4,
+        "cart": 4,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_30.png",
+        "image_path": "OutputIcons\\final_icon_30.png",
+        "line": 0,
+        "angle": -1,
+        "cart": -1,
+        "curve": 5
+    },
+    {
+        "image_name": "final_icon_31.png",
+        "image_path": "OutputIcons\\final_icon_31.png",
+        "line": 0,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_32.png",
+        "image_path": "OutputIcons\\final_icon_32.png",
+        "line": 0,
+        "angle": -1,
+        "cart": -1,
+        "curve": 3
+    },
+    {
+        "image_name": "final_icon_33.png",
+        "image_path": "OutputIcons\\final_icon_33.png",
+        "line": 9,
+        "angle": -1,
+        "cart": 2,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_34.png",
+        "image_path": "OutputIcons\\final_icon_34.png",
+        "line": 3,
+        "angle": 3,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_35.png",
+        "image_path": "OutputIcons\\final_icon_35.png",
+        "line": 5,
+        "angle": 5,
+        "cart": 2,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_36.png",
+        "image_path": "OutputIcons\\final_icon_36.png",
+        "line": 7,
+        "angle": 7,
+        "cart": 4,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_37.png",
+        "image_path": "OutputIcons\\final_icon_37.png",
+        "line": 12,
+        "angle": 9,
+        "cart": 2,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_38.png",
+        "image_path": "OutputIcons\\final_icon_38.png",
+        "line": 7,
+        "angle": -1,
+        "cart": -1,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_39.png",
+        "image_path": "OutputIcons\\final_icon_39.png",
+        "line": 6,
+        "angle": -1,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_40.png",
+        "image_path": "OutputIcons\\final_icon_40.png",
+        "line": 5,
+        "angle": -1,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_41.png",
+        "image_path": "OutputIcons\\final_icon_41.png",
+        "line": 12,
+        "angle": 10,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_46.png",
+        "image_path": "OutputIcons\\final_icon_46.png",
+        "line": 10,
+        "angle": 10,
+        "cart": 6,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_47.png",
+        "image_path": "OutputIcons\\final_icon_47.png",
+        "line": -1,
+        "angle": -1,
+        "cart": -1,
+        "curve": -1
+    },
+    {
+        "image_name": "final_icon_48.png",
+        "image_path": "OutputIcons\\final_icon_48.png",
+        "line": 18,
+        "angle": -1,
+        "cart": 2,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_49.png",
+        "image_path": "OutputIcons\\final_icon_49.png",
+        "line": 12,
+        "angle": -1,
+        "cart": 6,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_5.png",
+        "image_path": "OutputIcons\\final_icon_5.png",
+        "line": 6,
+        "angle": 12,
+        "cart": 0,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_58.png",
+        "image_path": "OutputIcons\\final_icon_58.png",
+        "line": 6,
+        "angle": 7,
+        "cart": 2,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_59.png",
+        "image_path": "OutputIcons\\final_icon_59.png",
+        "line": 3,
+        "angle": -1,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_6.png",
+        "image_path": "OutputIcons\\final_icon_6.png",
+        "line": 7,
+        "angle": -1,
+        "cart": 0,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_60.png",
+        "image_path": "OutputIcons\\final_icon_60.png",
+        "line": 6,
+        "angle": -1,
+        "cart": 0,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_61.png",
+        "image_path": "OutputIcons\\final_icon_61.png",
+        "line": 10,
+        "angle": 16,
+        "cart": 16,
+        "curve": 3
+    },
+    {
+        "image_name": "final_icon_66.png",
+        "image_path": "OutputIcons\\final_icon_66.png",
+        "line": 6,
+        "angle": -1,
+        "cart": -1,
+        "curve": 5
+    },
+    {
+        "image_name": "final_icon_67.png",
+        "image_path": "OutputIcons\\final_icon_67.png",
+        "line": 10,
+        "angle": -1,
+        "cart": 0,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_68.png",
+        "image_path": "OutputIcons\\final_icon_68.png",
+        "line": 4,
+        "angle": 0,
+        "cart": 0,
+        "curve": 4
+    },
+    {
+        "image_name": "final_icon_69.png",
+        "image_path": "OutputIcons\\final_icon_69.png",
+        "line": 2,
+        "angle": 0,
+        "cart": 0,
+        "curve": 3
+    },
+    {
+        "image_name": "final_icon_7.png",
+        "image_path": "OutputIcons\\final_icon_7.png",
+        "line": 7,
+        "angle": -1,
+        "cart": 0,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_74.png",
+        "image_path": "OutputIcons\\final_icon_74.png",
+        "line": 4,
+        "angle": 5,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_75.png",
+        "image_path": "OutputIcons\\final_icon_75.png",
+        "line": 3,
+        "angle": 3,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_76.png",
+        "image_path": "OutputIcons\\final_icon_76.png",
+        "line": 3,
+        "angle": 3,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_77.png",
+        "image_path": "OutputIcons\\final_icon_77.png",
+        "line": 3,
+        "angle": 3,
+        "cart": 0,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_8.png",
+        "image_path": "OutputIcons\\final_icon_8.png",
+        "line": 7,
+        "angle": -1,
+        "cart": 2,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_82.png",
+        "image_path": "OutputIcons\\final_icon_82.png",
+        "line": 12,
+        "angle": -1,
+        "cart": 12,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_83.png",
+        "image_path": "OutputIcons\\final_icon_83.png",
+        "line": 8,
+        "angle": 8,
+        "cart": 0,
+        "curve": 4
+    },
+    {
+        "image_name": "final_icon_84.png",
+        "image_path": "OutputIcons\\final_icon_84.png",
+        "line": 9,
+        "angle": 8,
+        "cart": 8,
+        "curve": 5
+    },
+    {
+        "image_name": "final_icon_85.png",
+        "image_path": "OutputIcons\\final_icon_85.png",
+        "line": 17,
+        "angle": -1,
+        "cart": -1,
+        "curve": 2
+    },
+    {
+        "image_name": "final_icon_90.png",
+        "image_path": "OutputIcons\\final_icon_90.png",
+        "line": 6,
+        "angle": 12,
+        "cart": 0,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_91.png",
+        "image_path": "OutputIcons\\final_icon_91.png",
+        "line": 6,
+        "angle": 9,
+        "cart": 9,
+        "curve": 0
+    },
+    {
+        "image_name": "final_icon_92.png",
+        "image_path": "OutputIcons\\final_icon_92.png",
+        "line": 2,
+        "angle": 1,
+        "cart": 1,
+        "curve": 1
+    },
+    {
+        "image_name": "final_icon_93.png",
+        "image_path": "OutputIcons\\final_icon_93.png",
+        "line": 0,
+        "angle": 0,
+        "cart": 0,
+        "curve": 2
+    }
+]

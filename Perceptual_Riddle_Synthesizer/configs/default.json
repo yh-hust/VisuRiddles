@@ -1,0 +1,16 @@
+{
+  "continue_on_error": true,
+  "output_root": "../outputs",
+  "format_normalization": {
+    "enabled": true,
+    "output_subdir": "",
+    "image": {
+      "cell_size": 160,
+      "padding": 24,
+      "gap": 18,
+      "section_gap": 56,
+      "border_width": 3,
+      "label_height": 42
+    }
+  }
+}

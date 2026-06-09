@@ -1,0 +1,207 @@
+{
+  "spectrum-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      0
+    ]
+  },
+  "app-store-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      0
+    ]
+  },
+  "behance-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      45
+    ]
+  },
+  "twitter-x-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      45
+    ]
+  },
+  "alibaba-cloud-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      90
+    ]
+  },
+  "angularjs-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      90
+    ]
+  },
+  "bilibili-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      90
+    ]
+  },
+  "qq-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      90
+    ]
+  },
+  "pix-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      135
+    ]
+  },
+  "stackshare-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      135
+    ]
+  },
+  "meta-fill.png": {
+    "axial_centrol_sym": true,
+    "centrol_sym": true,
+    "sym_axes": [
+      0,
+      90
+    ]
+  },
+  "opera-line.png": {
+    "axial_centrol_sym": true,
+    "centrol_sym": true,
+    "sym_axes": [
+      0,
+      90
+    ]
+  },
+  "facebook-circle-line.png": {
+    "axial_centrol_sym": true,
+    "centrol_sym": true,
+    "sym_axes": [
+      0,
+      90
+    ]
+  },
+  "disqus-line.png": {
+    "axial_centrol_sym": true,
+    "centrol_sym": true,
+    "sym_axes": [
+      0,
+      90
+    ]
+  },
+  "product-hunt-line.png": {
+    "axial_centrol_sym": true,
+    "centrol_sym": true,
+    "sym_axes": [
+      0,
+      90
+    ]
+  },
+  "gemini-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": true,
+    "sym_axes": []
+  },
+  "mixtral-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": true,
+    "sym_axes": []
+  },
+  "ie-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": true,
+    "sym_axes": []
+  },
+  "java-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": true,
+    "sym_axes": []
+  },
+  "paypal-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": true,
+    "sym_axes": []
+  },
+  "baidu-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "finder-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "taobao-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "twitter-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "weibo-line.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "zhihu-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "gitlab-fill.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": []
+  },
+  "app-store-line-clone0.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      0
+    ]
+  },
+  "finder-line-clone0.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      0
+    ]
+  },
+  "app-store-line-clone1.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      0
+    ]
+  },
+  "behance-fill-clone0.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      45
+    ]
+  },
+  "qq-line-clone0.png": {
+    "axial_centrol_sym": false,
+    "centrol_sym": false,
+    "sym_axes": [
+      90
+    ]
+  }
+}
