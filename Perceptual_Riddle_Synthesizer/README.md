@@ -43,11 +43,6 @@ raven/raven.py
 sudoku/sudoku.py
 ```
 
-
-## Internal code organization
-
-The category folders are the canonical implementation locations. Obsolete helper trees such as `numerical/num_gen`, `numerical/num_gen2`, `positional/generator`, `raven/engine.py`, `sudoku/engine.py`, and `spatial/generate_spatial_puzzles.py` have been removed from the formal code path. Each paper-defined subcategory has its own generation module. Category-level helper modules are kept only when they are part of the active implementation.
-
 ## Installation
 
 ```bash
@@ -140,7 +135,6 @@ subimages/
 
 Category-level `index.json` files and the root `index.json` provide compact dataset records, including question image paths, metadata paths, rule names, answers, stem images, and option images.
 
-Raw intermediate outputs are temporary and are deleted automatically after normalization.
 
 ## Tests
 
